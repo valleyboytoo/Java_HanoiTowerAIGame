@@ -2,9 +2,6 @@
 
 SPECIFICATIONS 
 
-This project is all about the architecture and functionality. Plan the architecture in the beginning to avoid modifications at the end. It is important to fully understand the rule of Tower of Hanoi game; make sure to fully understand chapter 18.8 page 769. It is good to watch videos on tutorial of this game and how it can be solved programmatically. 
-This application requires you to combine different concepts and technologies covered in the course. 
-
 When the application starts, JavaFX window will popup and prompt the user to either login or create an account. 
 
 If the user wants to create an account, the application needs to make sure all the username in the DB is unique. This has to be done by connecting to JDBC. 
