@@ -1,6 +1,6 @@
 # Java_HanoiTowerAIGame
 
-SPECIFICATIONS 
+# SPECIFICATIONS 
 
 When the application starts, JavaFX window will popup and prompt the user to either login or create an account. 
 
